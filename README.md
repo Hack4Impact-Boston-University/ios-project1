@@ -1,7 +1,7 @@
 # Mini Project 1: Free Time Calculator
 The first project for the iOS track. 
 
-The project will be a to build an app that allows a user to input:
+## The project will be to build an app that allows a user to input:
 - total hours per week they need to sleep
 - total hours per week of class time
 - total hours per week for meals, showering & getting ready
